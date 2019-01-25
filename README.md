@@ -15,7 +15,7 @@ Part 2 : Building the model
  - create Neural Network model in Keras 
    (embedding matrix - convolutional layer - LSTM - softmax)
 
-Part 3 : Model deployment in Auzre (Microsoft Web Service)
+Part 3 : Model deployment in Azure (Microsoft Web Service)
  - Create Workspace
  - Pickle the model
  - Register the model

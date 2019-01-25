@@ -8,10 +8,10 @@ Natural Language Processing
  - convert to phrases
  - labeling and generating training dataset
  
-### Part 2 : Building the model
- - load glove embedding vetor
+### Part 2 : Building the NLP model
+ - load pre-trained glove word embeddings
+ - tokenize the text
  - create embedding matrix
- - tokenization of the text
  - create Neural Network model in Keras 
    (embedding matrix - convolutional layer - LSTM - softmax)
 

@@ -1,4 +1,4 @@
-# Text-Classification-using-Glove-and-LSTM (NLP)
+# Text-Classification-using-GloVe-and-LSTM (NLP)
 Natural Language Processing
 ## From data preparation to building model and deploy the model to web service.
 
@@ -9,7 +9,7 @@ Natural Language Processing
  - labeling and generating training dataset
  
 ### Part 2 : Building the NLP model
- - load pre-trained glove word embeddings
+ - load pre-trained GloVe word embeddings
  - tokenize the text
  - create embedding matrix
  - create Neural Network model in Keras 
